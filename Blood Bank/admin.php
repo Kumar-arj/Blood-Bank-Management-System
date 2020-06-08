@@ -187,7 +187,7 @@ include 'logins.php';
                <div class="button"><a href="http://localhost:81/blood/details.php" target="_parent">More<br></a></div>
             
                 
-                
+             <div class=""  ></div>
              
           </div>
          <div class="col_w250 float_l">
