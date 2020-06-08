@@ -7,6 +7,6 @@ if(loggedin())
 }
 else
 {
-include 'logins.php';	
+include 'login.php';	
 }
 ?>
